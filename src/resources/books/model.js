@@ -1,5 +1,4 @@
 const dbClient = require("../../utils/database");
-const db = require("../../utils/database");
 const { buildBooksDatabase } = require("../../utils/mockData");
 
 function Book() {
