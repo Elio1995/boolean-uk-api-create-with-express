@@ -1,0 +1,23 @@
+{
+  "name": "1001-express-and-sql-create",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "faker": "5.5.3",
+    "morgan": "^1.10.0",
+    "pg": "^8.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
